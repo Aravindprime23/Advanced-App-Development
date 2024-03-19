@@ -1,0 +1,25 @@
+.carousel-container {
+    max-width: 70%; /* Adjust to half of the page width */
+    margin: auto;
+    padding: 50px;
+  }
+  
+  .carousel-container img {
+    width: 100%; /* Make the images responsive to the container */
+    max-height: 650px; /* Set the maximum height of the images, adjust as needed */
+    border-radius: 20px; /* Add border-radius for rounded corners, adjust as needed */
+    box-shadow: 0 4px px rgba(0, 0, 0, 0.1);
+  }
+  
+
+  /* body{
+    background-color: black;
+  } */
+
+  /* //cursive test on navbar maybe for admin
+  .title {
+    font-family: 'Dancing Script', cursive;
+    padding-top: 15px;
+    position: absolute;
+    left: 45%;
+} */
