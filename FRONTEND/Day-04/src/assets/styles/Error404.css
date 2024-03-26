@@ -1,0 +1,23 @@
+/* Assuming you have a container around the content */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  /* Style for the heading */
+  h1 {
+    color: white;
+    font-size: 36px;
+    margin-top: 50px; /* Adjust margin as needed */
+    text-align: center;
+  }
+  
+  /* Style for the image */
+  .error-image  {
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+
+  
